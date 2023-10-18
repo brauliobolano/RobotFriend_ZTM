@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+   /*
+  * Created with https://www.css-gradient.com
+  * Gradient link: https://www.css-gradient.com/?c1=0aa694&c2=c73bd2&gt=l&gd=dtl
+  */
+  background: rgba(10, 166, 148, 1.0);
+  background: linear-gradient(135deg, rgba(10, 166, 148, 1.0), rgba(199, 59, 210, 1.0));;
+}
+
+
