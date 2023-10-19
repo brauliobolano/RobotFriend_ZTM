@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RobotFriend_ZTM/static/css/main.745ae3d5.css",
+    "main.js": "/RobotFriend_ZTM/static/js/main.4c36ab38.js",
+    "static/media/SEGA.woff": "/RobotFriend_ZTM/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/RobotFriend_ZTM/index.html",
+    "main.745ae3d5.css.map": "/RobotFriend_ZTM/static/css/main.745ae3d5.css.map",
+    "main.4c36ab38.js.map": "/RobotFriend_ZTM/static/js/main.4c36ab38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.745ae3d5.css",
+    "static/js/main.4c36ab38.js"
+  ]
+}
